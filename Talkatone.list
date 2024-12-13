@@ -1,0 +1,19 @@
+# NAME: Talkatone.list
+# AUTHOR: DaHuAi1337
+# UPDATED: 2024-12-13 16:17:24
+# DOMAIN: 9
+DOMAIN-KEYWORD,mobilefuse.com
+DOMAIN-KEYWORD,inmobi.com
+DOMAIN-KEYWORD,crashlytics.com
+DOMAIN-KEYWORD,talkatone.com
+DOMAIN-KEYWORD,kochava.com
+DOMAIN-KEYWORD,tktn.be
+DOMAIN-KEYWORD,cohere.com
+DOMAIN-KEYWORD,ip-api.com
+DOMAIN-KEYWORD,agkn.com
+DOMAIN-KEYWORD,tktn.at
+DOMAIN-KEYWORD,tktn
+IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve
+IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve
